@@ -16,4 +16,4 @@ while True:
             print(DC_SELECT + ' location  chosen with IP' + DataCenter[DC_SELECT])
             break
       else:
-            print('Error !!!!  invalid choice!!!! Try Again or press q to quit')
+            print('Error !!!!  invalid choice!!!! Try Again')
