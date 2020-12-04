@@ -1,7 +1,7 @@
 # This is a simple script to help make a Data Centre Selection
-# will error if input is not an exact match
+# Will error if input is not an exact match
 # a snippet script to help Network Engineers.
-# feel feel to use and share amend to suit your needs
+# feel free to use and share. Amend to suit your needs.
 # written by NetworkCorner
 
 DataCenter = {'DC1': '  1.1.1.1', 'DC2':'  2.2.2.2', 'DC3':'  3.3.3.3','DC4':'  4.4.4.4',
