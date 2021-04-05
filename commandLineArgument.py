@@ -1,5 +1,5 @@
 # This is a simple script in which you put your arguments on the commandline.(Dos Prompt/Linux Prompt)
-# Enter a name colur age 
+# Enter a name colour age 
 #  
 #  C:\Users\Laptop\Documents\Python_scripts>commandLineArgument.py joeblogs blue 99
 #  Hello joeblogs blue 99
